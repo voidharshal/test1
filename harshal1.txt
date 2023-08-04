@@ -1,0 +1,3 @@
+This is an empty text file 
+Something is written here 
+This is a devops session
